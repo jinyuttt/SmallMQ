@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jinyu
+Build-Jdk: 10.0.2
+Class-Path: lib/log-1.0.0.jar lib/slf4j-api-1.7.25.jar lib/log4j-api-2
+ .8.2.jar lib/log4j-core-2.8.2.jar lib/log4j-slf4j-impl-2.8.2.jar lib/
+ mqnet-1.0.0.jar lib/netty-all-4.1.28.Final.jar lib/fastjson-1.2.47.ja
+ r
+Main-Class: cd.strommq.topicServer.App
+Created-By: Maven Integration for Eclipse
+

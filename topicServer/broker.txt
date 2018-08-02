@@ -1,0 +1,4 @@
+mqregister broker0 pub udp://169.254.80.251:40000 sub udp://169.254.80.251:50000
+mqregister broker0 pub udp://169.254.80.251:40000 sub udp://169.254.80.251:50000
+mqregister broker0 pub udp://169.254.80.251:40000 sub udp://169.254.80.251:50000
+mqregister broker0 pub udp://169.254.80.251:40000 sub udp://169.254.80.251:50000

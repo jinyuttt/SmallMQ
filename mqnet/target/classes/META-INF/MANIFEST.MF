@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: jinyu
+Build-Jdk: 10.0.2
+Class-Path: lib/netty-all-4.1.28.Final.jar
+Main-Class: cd.strommq.mqnet.App
+Created-By: Maven Integration for Eclipse
+

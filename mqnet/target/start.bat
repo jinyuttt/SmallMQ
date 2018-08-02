@@ -1,0 +1,1 @@
+java -jar mqnet-1.0.0.jar
